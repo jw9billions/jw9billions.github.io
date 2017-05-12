@@ -18,7 +18,7 @@ Some times, people just want to have his own little cozy chat room to share and 
 Big social networks sometimes have too broader based users with varieties of topics, that make you feel lost focus on an given issue that you may only want to have deeper conversation with a small group of people at that moment.
 
 {:.center}
-![]({{ site.baseurl }}/img/grandstand-330930_960_720.jpg)
+![]({{ site.baseurl }}/img/giphy.gif)
 
 ## Solution
 By labeling these different conversations on different rooms, people can immediately join the conversations based on their interest at real time. That makes conversation more productive and prompt.
