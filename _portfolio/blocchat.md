@@ -42,4 +42,7 @@ By creating real time a BlocChat site for users to share their thoughts, experie
 
 ## Conclusion
 
-BlocChat site is one of solutions for people get together with certain topic and certain kind of people with same interest to share and talk in real time.
+BlocChat site is one of solutions for people to enjoy getting together with same interest to share and talk in real time, and have a laugh.
+
+{:.center}
+![]({{ site.baseurl }}/img/b90a9894eac223bfc67f25ff888953e9.jpg)
