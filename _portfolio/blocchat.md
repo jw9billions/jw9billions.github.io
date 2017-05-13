@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocChat
+title: Bloc Chat
 thumbnail-path: "img/gossip_birds.png"
 short-description: Let's talk, so we can help each other.
 
@@ -11,26 +11,29 @@ short-description: Let's talk, so we can help each other.
 
 ## Explanation
 
-Some times, people just want to have his own little cozy chat room to share and gain support within a circle of his friends who really understand and engaged in certain problems. In this case, they will create their own chat rooms with specific designation. The conversation is updated at real time, that gives people a place to air out their problems and may get solutions at that moment.
+Some times, people just want to have their own little chat room to share and gain support within the  circle of his friends. They may create their own chat rooms with specific interests. The conversation and user are updated at real time both in data center and chat room.
 
 ## Problem
 
-Big social networks sometimes have too broader based users with varieties of topics, that make you feel lost focus on an given issue that you may only want to have deeper conversation with a small group of people at that moment.
+How to create a site that take data directly from users (such as username, messages, or creating a new chat room), and updated promptly both at website and data center right way simultaneously is a challenge.
 
 {:.center}
 ![]({{ site.baseurl }}/img/giphy.gif)
 
 ## Solution
-By labeling these different conversations on different rooms, people can immediately join the conversations based on their interest at real time. That makes conversation more productive and prompt.
-Let people to create chat rooms in real time with different topics so everybody can engage in that conversation at that moment with the right group. That makes conversation more productive and prompt.
+
+By applying JavaScript, Jquery, Angular Firebase, Bootstrap ui, and cookies can help me build the site efficiently and timely.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Screen Shot 2017-05-11 at 7.50.54 PM.png)
 
-Angular UI Firebase and Bootstrap provide unique technical advantage to get the work done quickly and efficiently.
+Angular UI Firebase and Bootstrap provide unique technical advantage to get the work done quickly.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Screen Shot 2017-05-11 at 10.16.46 PM.png)
+
+{:.center}
+![]({{ site.baseurl }}/img/Bootstrap.png)
 
 ## Results
 
@@ -42,7 +45,7 @@ By creating real time a BlocChat site for users to share their thoughts, experie
 
 ## Conclusion
 
-BlocChat site is one of solutions for people to enjoy getting together with same interest to share and talk in real time, and have a laugh.
+BlocChat site is one of solutions for people to get together with same interest to share and talk in real time, and have a good laugh.
 
 {:.center}
-![]({{ site.baseurl }}/img/b90a9894eac223bfc67f25ff888953e9.jpg)
+![]({{ site.baseurl }}/img/trumpClinton.jpg)
