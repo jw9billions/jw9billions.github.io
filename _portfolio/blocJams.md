@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Jams
+title: Music Jams by JS
 thumbnail-path: "img/JamsMusicCover.jpg"
 short-description: Music Inspire You, Music Empower You, Your Embrace the Whole World!
 
@@ -13,8 +13,6 @@ short-description: Music Inspire You, Music Empower You, Your Embrace the Whole 
 ## About the project
 This project is to build a music player, with sound control, volume control, and collections of musics like a library, and fit into all devices and screen sizes.
 
-{:.center}
-![]({{ site.baseurl }}/img/JamsIpod.jpg)
 {:.center}
 ![]({{ site.baseurl }}/img/Screen Shot 2017-05-13 at 12.30.10 AM.png)
 

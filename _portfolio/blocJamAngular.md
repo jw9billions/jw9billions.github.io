@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Jams Angular Version
+title: Music Jams by Angular
 thumbnail-path: "img/MovingWater.gif"
 short-description: Music Inspire You, Music Empower You, Your Embrace the Whole World!
 
