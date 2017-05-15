@@ -11,11 +11,11 @@ short-description: Let's talk, so we can help each other.
 
 ## Explanation
 
-Some times, people just want to have their own little chat room to share and gain support within the  circle of his friends. They may create their own chat rooms with specific interests. The conversation and user are updated at real time both in data center and chat room.
+To create chat rooms for people to share and chat. Each chat rooms can have their own names. The conversations and users are updated at real time both in data center and chat rooms.
 
 ## Problem
 
-How to create a site that take data directly from users (such as username, messages, or creating a new chat room), update the data simultaniously both at website and server, and provide user real time chatting experience?
+How to create a site that take data directly from massive users (such as username, messages, or creating a new chat room), update the data simultaneously both at website and server, to provide user real time chatting experience? THE ROOM IS SO CROWDED!
 
 {:.center}
 ![]({{ site.baseurl }}/img/minions.gif)
@@ -37,7 +37,17 @@ Angular Firebase and Bootstrap provide unique technical advantage to get the wor
 
 ## Results
 
-By applying these skills, I created real time a BlocChat site for users to share their thoughts, experiences and feelings with their like minded people.
+{:.center}
+![]({{ site.baseurl }}/img/chatBirds.jpg)
+
+By combining JavascriptS, Jquery with AngularJS, then by injecting Firebase, Bootstrap, and cookies into Angular modules, I saved a lot of time, and made the website much faster and efficient.
 
 {:.center}
 ![]({{ site.baseurl }}/img/BCMessageRoom.png)
+
+## Conclusion
+
+The Angular Fire is so fast! Cookies are good! let's go get a room and chat!
+
+{:.center}
+![]({{ site.baseurl }}/img/chatTogether.jpg)

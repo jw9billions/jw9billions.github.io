@@ -10,7 +10,7 @@ Speaking about my experience with Bloc, I cannot wait to brag my mentor Raj, who
 
 Of course, everybody struggled one way or the other. When I thought I could not continue, just wanted to throw the towel, suddenly it ended. I finished the project. It is done!
 
-I do not deny that some times I did get bad quality learning curve. I struggled, and questioned myself if it is for me. Though, today I am still not sure about the answer, but I have to say, my mentor put so much attention and time, I mean he doubled the time to teach me at every single session. Thanks God, I am lucky!
+I do not deny that some times I did get bad quality learning curve. I struggled, and questioned myself if it is for me. Though, today I am still not sure about the answer, but I have to say, my mentor put so much attention and time. He doubled the time to teach me at every single session. Thanks God, I am lucky!
 
 {:.center}
 ![]({{ site.baseurl }}/img/Supportive-people.jpg)

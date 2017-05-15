@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Jams by JS
+title: Music Jams 
 thumbnail-path: "img/JamsMusicCover.jpg"
 short-description: Music Inspire You, Music Empower You, Your Embrace the Whole World!
 
@@ -11,23 +11,29 @@ short-description: Music Inspire You, Music Empower You, Your Embrace the Whole 
 
 
 ## About the project
+
+{:.center}
+![]({{ site.baseurl }}/img/jamLogo.png)
+
 This project is to build a music player, with sound control, volume control, and collections of musics like a library, and fit into all devices and screen sizes.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Screen Shot 2017-05-13 at 12.30.10 AM.png)
-
 
 ## Problems
 There are a few big challenges in the project based on users' behavior.
 
 Considering all instances when a user click a song button. The user may start a new song, or to pause the song if he is listening, or continue to listen the same song after pausing, or switch to a new song in middle.
 
+{:.center}
+![]({{ site.baseurl }}/img/puzzles.jpg)
+
 There are Play Bar and Volume Bar also need to be adjusted simultaneously when users drag the bars back and forth, or listen a song, vise versa.  
 
 I need to structure the whole project, and have everything synchronized and work seamlessly. So how to create my music Jam?
 
 {:.center}
-![]({{ site.baseurl }}/img/jamLogo.png)
+![]({{ site.baseurl }}/img/puzzle1.jpg)
 
 ## Solution
 
