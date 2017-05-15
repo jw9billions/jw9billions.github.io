@@ -33,7 +33,7 @@ Angular Firebase and Bootstrap uibModal provide unique technical advantage to ge
 ![]({{ site.baseurl }}/img/Angular.png)
 
 {:.center}
-![]({{ site.baseurl }}/img/Bootstrap.png)
+![]({{ site.baseurl }}/img/BootStrap.png)
 
 ## Results
 
