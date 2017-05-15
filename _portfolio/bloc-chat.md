@@ -15,19 +15,19 @@ To create chat rooms for people to share and chat. Each chat rooms can have thei
 
 ## Problem
 
-How to create a site that take data directly from massive users (such as username, messages, or creating a new chat room), update the data simultaneously both at website and server, to provide user real time chatting experience? THE ROOM IS SO CROWDED!
+How to create a site that takes data directly from massive users (such as username, messages, or creating a new chat room), update the data simultaneously both at website and server, to provide user real time chatting experience? THE ROOM IS SO CROWDED!
 
 {:.center}
 ![]({{ site.baseurl }}/img/minions.gif)
 
 ## Solution
 
-AngularJS provides great frame works to make my whole process fast and quick. I also used Firebase, Bootstrap, and cookies which can directly taking the data and inputs from users, and update the data in server and browser at the same time, and feed updated information back to user right way at real time.
+AngularJS provides great frame works, and that made the whole process faster and quicker. I combine Angular Firebase, Bootstrap, and cookies (which can directly taking the data and inputs from users), and keep data update in server and browser at real time.
 
 {:.center}
 ![]({{ site.baseurl }}/img/BCNewRoom.png)
 
-Angular Firebase and Bootstrap provide unique technical advantage to get the work done quickly.
+Angular Firebase and Bootstrap uibModal provide unique technical advantage to get the work done quickly.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Angular.png)
