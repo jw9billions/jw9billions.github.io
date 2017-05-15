@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Jams (angular JS)
+title: Music Jams (angular)
 thumbnail-path: "img/JamsMusicGlobal.jpg"
 short-description: Music Inspire You, Music Empower You. Your Embrace the Whole World!
 
