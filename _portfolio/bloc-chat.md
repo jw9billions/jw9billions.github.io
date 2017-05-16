@@ -47,7 +47,7 @@ By combining JavascriptS, Jquery with AngularJS, by injecting Firebase, Bootstra
 
 ## Conclusion
 
-The Angular Fire is so fast! let's go to a chat room, and have a good laugh!
+The Angular fires fast! News goes faster! let's go to chat, and have a good laugh!
 
 {:.center}
 ![]({{ site.baseurl }}/img/trumpClinton.jpg)
