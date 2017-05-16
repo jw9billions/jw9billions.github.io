@@ -4,13 +4,25 @@ title: About
 permalink: /about/
 feature-img: "img/color.png"
 ---
+I am an artistic, stylish, trendy, witty, expressive, humous, joyful and hilarious web creator.
+I'm a developer specializing in JavaScript, Jquery, AngularJS and Rails. My philosophy is contents and images worth thousands of words!
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+{:.center}
+![]({{ site.baseurl }}/img/inspiration3.jpg)
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+My goal is to become an innovative, productive, knowledgeable and high skilled SW engineer, with good knowledge, value, social consciousness and awareness, with inspirational love and care, to apply my knowledge and skills in technology, to help people, to contribute my work and love to my community, and  give back to our society and our future.
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+{:.center}
+![]({{ site.baseurl }}/img/eagleFly.jpg)
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
+I am especially interested in virtual technology, artificial intelligence, machining learning and big data analysis. I always want to build a robotic servant to serve people, to heal disabled ones, to assist patients and elderly. Robotic machines can tirelessly serve people without any judgment. No mater who you are, how old you are, pretty or ugly, mean or loving, holy or evil, straight or guy, they simply do not judge. They just serve.
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+{:.center}
+![]({{ site.baseurl }}/img/woman-flying.jpg)
+
+I want to sharpen my skills in JavaScript and Algorithm, and hope to learn Python pretty soon to build up good pipeline for my goal.
+
+At the same time I also enjoy building websites, using great content to communicate with people with love, to support good feelings in my circle.
+
+{:.center}
+![]({{ site.baseurl }}/img/racing women.jpg)

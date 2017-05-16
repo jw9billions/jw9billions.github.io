@@ -22,7 +22,7 @@ How to create a site that takes data directly from massive users (such as userna
 
 ## Solution
 
-AngularJS provides great frame works, and that made the whole process faster and quicker. I combine Angular Firebase, Bootstrap, and cookies as dependencies in module, built the site which can take input and update it in server and browser at real time.
+Angular is a great frame work, which made the whole process faster and quicker. I inject Firebase, Bootstrap, and cookies as dependencies in Angular module, built the site which can take input and update it in server and browser at real time.
 
 {:.center}
 ![]({{ site.baseurl }}/img/BCNewRoom.png)

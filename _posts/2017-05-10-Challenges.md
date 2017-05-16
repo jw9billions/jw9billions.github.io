@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Biggest Challenges
+title: Challenges
 ---
-Tried to learn everything, but felt like learned nothing. 
+Tried to learn everything, but felt like learned nothing.
 
 {:.center}
 ![]({{ site.baseurl }}/img/questioning.jpeg)
